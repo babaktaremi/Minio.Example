@@ -1,0 +1,6 @@
+@Minio.Example.ApiClient_HostAddress = http://localhost:5223
+
+GET {{Minio.Example.ApiClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
